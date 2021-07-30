@@ -47,7 +47,11 @@ To accomplish this, follow these steps:
 
 The following is an example of how to conduct a prediciton:
 ```python
+from sklearn.preprocessing import MinMaxScaler
+import tensorflow as tf
 import pandas as pd
+import numpy as np
+import json
 
 # Load datasets into memory
 dataset = pd.read_csv("./TESTING_DATASET.csv")
