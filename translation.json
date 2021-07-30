@@ -1,0 +1,20 @@
+{
+  "Region": {
+    "REGION 9": 1.0,
+    "REGION 10": 2.0,
+    "REGION 11": 3.0,
+    "REGION 12": 4.0,
+    "REGION 13": 5.0,
+    "BARMM": 6.0
+  },
+  "Field Type": {
+    "IRRIGATED": 1.0,
+    "RAINFED": 2.0
+  },
+  "Quarter Type": {
+    "Q1": 1.0,
+    "Q2": 2.0,
+    "Q3": 3.0,
+    "Q4": 4.0
+  }
+}
