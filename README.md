@@ -9,5 +9,11 @@ The required inputs and following output for QRSP2v1.0-Mindanao are described in
 
 `./translation.py` : A translation key that is used to translate non-numerical values into numerical
 
+`./eval/ablation.py` : File used to conduct the ablation study
+
+`./eval/input_error.py` : File used to conduct error induct input study
+
+`./BM/` : Model files for BM
+
 # Links
 **Dataset Repository:** https://www.kaggle.com/benjlh/qrsp2v10mindanao
