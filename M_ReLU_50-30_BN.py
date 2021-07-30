@@ -1,3 +1,7 @@
+"""
+File used to create BM
+"""
+
 # Imports
 from tensorflow.python.keras.regularizers import l2
 from tensorflow.keras.callbacks import TensorBoard
