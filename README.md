@@ -100,4 +100,4 @@ print("I predicted: " + str(predicted) + " tons")
 ```
 
 # Links
-**Dataset Repository:** https://www.kaggle.com/benjlh/qrsp2v10mindanao
+**Dataset Repository:** https://www.kaggle.com/benjlh/qrsp2v10mindanao-dataset
